@@ -1,0 +1,27 @@
+{
+  "ModelNet40_01.rar": {
+    "off_files": 726,
+    "classes": [
+      "airplane"
+    ],
+    "train": 626,
+    "test": 100
+  },
+  "ModelNet40_02.rar": {
+    "off_files": 2896,
+    "classes": [
+      "bathtub",
+      "bed",
+      "bench",
+      "bookshelf",
+      "bottle",
+      "bowl",
+      "car",
+      "cone",
+      "cup",
+      "curtain"
+    ],
+    "train": 2346,
+    "test": 550
+  }
+}

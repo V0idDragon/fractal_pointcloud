@@ -1,0 +1,13 @@
+{
+  "airplane": 0,
+  "bathtub": 1,
+  "bed": 2,
+  "bench": 3,
+  "bookshelf": 4,
+  "bottle": 5,
+  "bowl": 6,
+  "car": 7,
+  "cone": 8,
+  "cup": 9,
+  "curtain": 10
+}

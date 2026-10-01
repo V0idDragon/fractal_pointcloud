@@ -1,0 +1,23 @@
+{
+  "dataset": "modelnet40",
+  "classes": [
+    "airplane",
+    "bathtub",
+    "bed",
+    "bench",
+    "bookshelf",
+    "bottle",
+    "bowl",
+    "car",
+    "cone",
+    "cup",
+    "curtain"
+  ],
+  "n_classes": 11,
+  "train_objects": 33,
+  "test_objects": 33,
+  "source_points": 2048,
+  "n_points": 1024,
+  "failed_objects": 0,
+  "root": "/mnt/data/thesis_stage3/modelnet_partial"
+}
